@@ -10,7 +10,7 @@ const baseUri = "ipfs://NewUriToReplace";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 200,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "Body" },
